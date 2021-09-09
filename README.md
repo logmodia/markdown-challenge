@@ -11,9 +11,9 @@ October 11 | Bleu | Rice | No
 #### Hobbies
 
 1. Movies
-.. * Action movies
+  - Action movies
 2. Games
-..* GTA
+  - GTA
 
 #### You can always count on me when you need some innovative ideas
 
