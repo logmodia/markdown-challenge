@@ -1,9 +1,9 @@
 # René Logala Modia 
-_"Chaque seconde est une vie"_  
+_"Every second is a life"_  
 
 ![alt text](https://github.com/logmodia/markdown-challenge/blob/main/img2.jpg "Photo")
 
-#### Moi:"Optimiste, analytique, autonome, avec sens de responsabilité et capable de m’adapter aux situations"
+#### Me:"Optimistic, analytical, autonomous, with a sense of responsibility and able to adapt to situations"
 
 Birthday | Favorite color | Favorite food | Pinneapple on pizza
 -------- | -------- | --------| -------- |
