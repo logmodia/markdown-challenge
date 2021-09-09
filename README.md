@@ -7,7 +7,7 @@ _"Chaque seconde est une vie"_
 
 Birthday | Favorite color | Favorite food | Pinneapple on pizza
 -------- | -------- | --------| -------- |
-October 11 | Bleu | Rice | No
+October 11 | Bleu | Rice | :x:
 
 #### Hobbies
 
