@@ -2,21 +2,22 @@
 _"Chaque seconde est une vie"_
 ![alt text](https://github.com/logmodia/markdown-challenge/blob/main/img1.jpg "Photo")
 
-####Moi:"Optimiste, analytique, autonome, avec sens de responsabilité et capable de 
+#### Moi:"Optimiste, analytique, autonome, avec sens de responsabilité et capable de 
 m’adapter aux situations"
-Birthday|Favorite color|Favorite food|Pinneapple on pizza
---------|--------|--------|--------|
-October 11|Bleu|Rice|No
+Birthday | Favorite color | Favorite food | Pinneapple on pizza
+-------- | -------- | --------| -------- |
+October 11 | Bleu | Rice | No
 
-####Hobbies
+#### Hobbies
 
 1. Movies
-..*Action movies
+..* Action movies
 2. Games
---+GTA
+--+ GTA
 
-####You can always count on me when you need some innovative ideas
+#### You can always count on me when you need some innovative ideas
 
-####Funny story
+#### Funny story
+**Sorry, i've not a funny story now.**
 
 [Raoni Gillet]||[René Logala Modia](https://github.com/logmodia/markdown-challenge)||[Rouslan Boyko]
